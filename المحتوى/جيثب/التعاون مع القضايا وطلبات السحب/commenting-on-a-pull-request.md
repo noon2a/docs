@@ -41,8 +41,7 @@ To reply to an existing line comment, you'll need to navigate to the comment on 
 ### Adding line comments to a pull request
 
 {% data reusables.repositories.sidebar-pr %}
-2. In the list of pull requests, click the pull request where you'd like to leave line comments.
-{% data reusables.repositories.changed-files %}
+2. In the list of pull requests, clickhttp://www.apache.org/licenses/data reusables.repositories.changed-files %}
 {% data reusables.repositories.start-line-comment %}
 {% data reusables.repositories.type-line-comment %}
 {% data reusables.repositories.suggest-changes %}
